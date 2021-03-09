@@ -1,8 +1,8 @@
-## Python Metadata API for OpenSea Creatures
+## Python Metadata API for OpenSea Slow Cuts
 
 ### About
 
-This is a very simple sample Python Flask app for serving the ERC721 metadata for the [OpenSea creatures ERC721 contracts](https://github.com/ProjectOpenSea/opensea-creatures/), as specified in the [OpenSea developer docs](https://docs.opensea.io/docs/2-adding-metadata).
+This is a very simple sample Python Flask app for serving the ERC721 metadata for the OpenSea Slow Cuts ERC721 contracts.
 
 ## Requirements
 
