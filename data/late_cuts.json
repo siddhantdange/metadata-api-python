@@ -31,9 +31,9 @@
     },
     {
         "name": "Sachin Tendulkar ODI Century England",
-        "image": "https://drive.google.com/file/d/1rXjpBsz2umFHmmxbH3mLUdFVZVBn0Hco/view?usp=sharing",
+        "image": "",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "",
+        "animation_url": "https://drive.google.com/file/d/1rXjpBsz2umFHmmxbH3mLUdFVZVBn0Hco/view?usp=sharing",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -122,9 +122,9 @@
     },
     {
         "name": "Virat Kohli Scores First Test Century In England",
-        "animation_url": "https://drive.google.com/file/d/12ffAigR54YLdSzjNLw2xAdabvI5rcTWI/view?usp=sharing",
         "image": "",
         "external_url": "https://openseacreatures.io/s",
+        "animation_url": "https://drive.google.com/file/d/12ffAigR54YLdSzjNLw2xAdabvI5rcTWI/view?usp=sharing",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -151,8 +151,9 @@
     },
     {
         "name": "Virat Kohli Hits Boundary World Cup",
-        "image": "https://drive.google.com/file/d/1GMU3MajSd3sR-6IJcqYNiDnuLhOOHnKn/view?usp=sharing",
+        "image": "",
         "external_url": "https://openseacreatures.io/s",
+        "animation_url": "https://drive.google.com/file/d/1GMU3MajSd3sR-6IJcqYNiDnuLhOOHnKn/view?usp=sharing",
         "attributes": [
                 {
                     "trait_type": "position",
