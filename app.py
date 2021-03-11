@@ -8,29 +8,29 @@ from flask import jsonify
 
 app = Flask(__name__)
 
-with open('data/creatures.json') as f:
-    creatures = json.loads(f.read())
+with open('data/late_cuts.json') as f:
+    late_cuts = json.loads(f.read())
 
-creatures_by_idx = {}
-for idx in range(len(creatures)):
-    creatures_by_idx[idx] = creatures[idx]
+late_cuts_by_idx = {}
+for idx in range(len(late_cuts)):
+    late_cuts_by_idx[idx] = late_cuts[idx]
 
-def trait_by_type(creature, trait_type):
-    for attr in creature['attributes']:
+def trait_by_type(late_cut, trait_type):
+    for attr in late_cut['attributes']:
         if attr['trait_type'] == trait_type:
             return attr['value']
     return ''
 
 
-@app.route('/api/creature/<token_id>')
-def creature(token_id):
+@app.route('/api/late_cuts/<token_id>')
+def late_cut(token_id):
     token_id = int(token_id)
 
-    creature = creatures_by_idx[token_id]
-    if not creature:
+    late_cut = late_cuts_by_idx[token_id]
+    if not late_cut:
         return None
 
-    return jsonify(creature)
+    return jsonify(late_cut)
 
 
 @app.route('/api/box/<token_id>')
@@ -43,7 +43,7 @@ def box(token_id):
 
     return jsonify({
         'name': "Creature Loot Box",
-        'description': "This lootbox contains some OpenSea Creatures! It can also be traded!",
+        'description': "This lootbox contains some OpenSea Late Cuts! It can also be traded!",
         'image': image_url,
         'external_url': 'https://openseacreatures.io/%s' % token_id,
         'attributes': attributes
