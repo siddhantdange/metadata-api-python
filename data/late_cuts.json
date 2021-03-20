@@ -2,9 +2,9 @@
 [
     {
         "name": "Sachin Tendulkar First Century",
-        "image": "https://www.dropbox.com/s/jxg5b5shbru7akb/Sachin_First_Century.gif",
+        "image": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Sachin+Tendulkar/Sachin_First_Century/Sachin_First_Century.png",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "https://www.dropbox.com/s/2gwqmwumriz3e6u/Sachin_First_Century.mp4",
+        "animation_url": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Sachin+Tendulkar/Sachin_First_Century/Sachin_First_Century.mp4",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -31,9 +31,9 @@
     },
     {
         "name": "Sachin Tendulkar ODI Century England",
-        "image": "",
+        "image": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Sachin+Tendulkar/Sachin_ODI_England_Century/Sachin_ODI_England_Century.png",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "https://www.dropbox.com/s/qqwemx2lffv0doe/Sachin_ODI_England_Century.mp4",
+        "animation_url": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Sachin+Tendulkar/Sachin_100th_Century/Sachin_100th_Century.mp4",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -60,9 +60,9 @@
     },
     {
         "name": "Sachin Tendulkar 100th Century",
-        "image": "",
+        "image": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Sachin+Tendulkar/Sachin_100th_Century/Sachin_100_Century.png",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "https://www.dropbox.com/s/awalkbg72gsrs4i/Sachin_100th_Century.mp4",
+        "animation_url": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Sachin+Tendulkar/Sachin_100th_Century/Sachin_100th_Century.mp4",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -89,9 +89,9 @@
     },
     {
         "name": "Rohit Sharma Scores Century",
-        "image": "",
+        "image": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/ICC_World_Cup_Game_22_2019/Rohit_Sharma_Scores_Century/Rohit_Sharma_Scores_Century.png",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "https://www.dropbox.com/s/opvenrt9zxdody9/Rohit_Sharma_Scores_Century.mp4",
+        "animation_url": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/ICC_World_Cup_Game_22_2019/Rohit_Sharma_Scores_Century/Rohit_Sharma_Scores_Century.mp4",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -122,9 +122,9 @@
     },
     {
         "name": "Virat Kohli Scores First Test Century In England",
-        "image": "",
+        "image": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Virat+Kohli/Kohli_Scores_First_Test_Century_In_England/Kohli_Scores_First_Test_Century_In_England.png",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "https://www.dropbox.com/s/zfzrsez9waj2sdf/Kohli_Scores_First_Test_Century_In_England.mp4",
+        "animation_url": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/Virat+Kohli/Kohli_Scores_First_Test_Century_In_England/Kohli_Scores_First_Test_Century_In_England.mp4",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -151,9 +151,9 @@
     },
     {
         "name": "Virat Kohli Hits Boundary World Cup",
-        "image": "",
+        "image": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/ICC_World_Cup_Game_22_2019/Kohli_Hits_Boundary_World_Cup/Kohli_Hits_Boundary_World_Cup.png",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "https://www.dropbox.com/s/3jpm0hs5segckdu/Kohli_Hits_Boundary_World_Cup.mp4",
+        "animation_url": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/ICC_World_Cup_Game_22_2019/Kohli_Hits_Boundary_World_Cup/Kohli_Hits_Boundary_World_Cup.mp4",
         "attributes": [
                 {
                     "trait_type": "position",
@@ -184,9 +184,9 @@
     },
     {
         "name": "Hardik Pandya Takes Malik Wicket",
-        "image": "",
+        "image": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/ICC_World_Cup_Game_22_2019/Hardik_Pandya_Takes_Malik_Wicket/Hardik_Pandya_Takes_Malik_Wicket.png",
         "external_url": "https://openseacreatures.io/s",
-        "animation_url": "https://www.dropbox.com/s/15fja4rwy4y1tpn/Hardik_Pandya_Takes_Malik_Wicket.mp4",
+        "animation_url": "https://latecuts.s3-us-west-1.amazonaws.com/cricket_nft/ICC_World_Cup_Game_22_2019/Hardik_Pandya_Takes_Malik_Wicket/Hardik_Pandya_Takes_Malik_Wicket.mp4",
         "attributes": [
                 {
                     "trait_type": "position",
