@@ -24,7 +24,7 @@ def trait_by_type(late_cut, trait_type):
 
 @app.route('/api/late_cuts/<token_id>')
 def late_cut(token_id):
-    token_id = int(token_id)
+    token_id = int(token_id) - 1 # opensea idx are 1-indexed
 
     late_cut = late_cuts_by_idx[token_id]
     if not late_cut:
